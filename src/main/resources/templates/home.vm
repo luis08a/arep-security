@@ -7,6 +7,6 @@
     <title>web</title>
 </head>
 <body>
-    $user
+    Usted es $user y su clave es: $pwd
 </body>
 </html>
